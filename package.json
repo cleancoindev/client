@@ -43,7 +43,7 @@
     "snarkjs": "^0.3.33",
     "socket.io-client": "^2.3.0",
     "sortablejs": "^1.10.2",
-    "styled-components": "^5.0.1",
+    "styled-components": "^5.3.5",
     "timeago.js": "^4.0.2",
     "ts-dedent": "^2.0.0",
     "typedoc": "0.19.2",
