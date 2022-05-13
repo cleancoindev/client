@@ -40,7 +40,7 @@
     "react-spinkit": "^3.0.0",
     "react-typist": "^2.0.5",
     "react-use": "^13.27.1",
-    "snarkjs": "^0.3.33",
+    "snarkjs": "^0.4.16",
     "socket.io-client": "^2.3.0",
     "sortablejs": "^1.10.2",
     "styled-components": "^5.0.1",
